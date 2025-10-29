@@ -1,6 +1,5 @@
 <script lang="ts">
-  import "../app.css";
-  // import "../app.css";  → SİL!
+  import "../app.css"; 
   import Sidebar from '$lib/components/Sidebar.svelte';
   import Topbar from '$lib/components/Topbar.svelte';
 </script>
